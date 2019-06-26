@@ -1,0 +1,1 @@
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id' cannot be null

@@ -1,0 +1,10 @@
+{
+    "require": {
+        "kiddyu/beanbun": "^1.0",
+        "php-curl-class/php-curl-class": "^8.5",
+        "kiddyu/beanbun-parser": "^0.0.1",
+        "phenx/php-font-lib": "^0.5.1",
+		"wufeng/beanbun-font-decode": "^0.0.1",
+        "phpunit/phpunit": "^8.2"
+    }
+}
